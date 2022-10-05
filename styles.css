@@ -1,0 +1,7 @@
+/*reseta css padrão do navegador*/
+* {
+  margin: 0;
+  padding: 0;
+  /*muda a maneira que conta o tamanho das caixas ignorando o padding e mantendo como padrão 580 px*/
+  box-sizing: border-box;
+}
