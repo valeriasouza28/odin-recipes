@@ -1,3 +1,2 @@
 # Odin Recipes
 
-!.[preview].()
