@@ -15,9 +15,9 @@ O Odin Recipes é um site de receitas, que possui receitas com no máximo 5 igre
 
 ## Acessar Projeto
 
-Para acessar o projeto pronto em site basta clicar [Clique aqui para acessar!](https://odin-recipes-pi.vercel.app/)
+Para acessar o projeto pronto em site basta clicar [Clique aqui para acessar!](https://odin-recipes-pi.vercel.app/) e também em [Clique aqui para acessar!](https://valeriasouza28.github.io/odin-recipes/)
 
 --- 
 
 Feito por Valéria Souza 💅
->>>>>>> 6bda0a8bb63fe21443cea701c40f1101bdbd4e84
+
