@@ -8,7 +8,7 @@
 
 body * {
 font-family: "Open Sans";
-background-color: #3d3d44;
+
 }
 
 h2{
@@ -22,23 +22,26 @@ p {
   color: #f0b154;
 }
 
-header{
-  padding-top: 32px;
-  height: calc(120px + 32px);
+header section{
+  /* padding-top: 32px; */
+  justify-content: center;
+   margin: auto; 
+   text-align: center;
+
 }
 
 header div{
-  width: 120px;
-  margin: auto;
+  background-color: #3d3d44;
+  width: 1000px;
   
 }
 header img{
-  text-align: center;
+  
 }
 
 main{
   margin: 32px auto;
-  width: 1000px;
+  width: 900px;
   align-items: center; 
 }
 
