@@ -35,9 +35,6 @@ header div{
   width: 1000px;
   
 }
-header img{
-  
-}
 
 main{
   margin: 32px auto;
@@ -50,6 +47,7 @@ section div {
   padding: 32px;
   padding-top: 24px;
   border-radius: 8px;
+  align-items: center
 }
 
 section ul {
