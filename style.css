@@ -29,7 +29,14 @@ header section{
   justify-content: center;
    margin: auto; 
    text-align: center;
+   
 
+}
+
+  .header {
+  font-family: 'Lobster', cursive;
+  color: orange;
+  font-size: 40px;
 }
 
 header div{
