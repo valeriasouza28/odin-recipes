@@ -1,6 +1,7 @@
 # Odin Recipes
 
-![odinRecipesReadme](https://user-images.githubusercontent.com/82419677/202042030-5652b414-c50f-4085-80b8-d3516672def6.png)
+![odiRecipes2](https://user-images.githubusercontent.com/82419677/203406685-d30aefce-8d6e-4b6f-a51e-1ac487ee5310.png)
+
 
 ## 🚀 Tecnologias
 
@@ -15,7 +16,7 @@ O Odin Recipes é um site de receitas, que possui receitas com no máximo 5 igre
 
 ## Acessar Projeto
 
-Para acessar o projeto pronto em site basta clicar [Clique aqui para acessar!](https://odin-recipes-pi.vercel.app/) e também em [Clique aqui para acessar!](https://valeriasouza28.github.io/odin-recipes/)
+Para acessar o projeto pronto em site basta clicar [Clique aqui para acessar!](https://odin-recipes-pi.vercel.app/) .
 
 --- 
 
